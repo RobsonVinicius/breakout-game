@@ -2,6 +2,8 @@
  
  Game Breakout em desenvolvimento utilizando JavaScript
 
- Links de Estudo:
+<br>
 
- [Canvas API - MDN web docs](developer.mozilla.org/en-US/Web/API/Canvas_API)
+## Links de Estudo:
+
+ [Canvas API - MDN web docs](https://developer.mozilla.org/en-US/Web/API/Canvas_API)
