@@ -4,6 +4,8 @@
 
 <br>
 
+<img src="preview.jpg" align="center" height="700" />
+
 ## Links de Estudo:
 
  + [Canvas API - MDN web docs](https://developer.mozilla.org/en-US/Web/API/Canvas_API)
