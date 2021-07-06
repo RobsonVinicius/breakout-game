@@ -11,6 +11,12 @@
 
 <br>
 
-<img src="preview.jpg" align="center" height="700" />
+## Preview Live
+https://robsonvinicius.github.io/breakout-game/
 
+<br>
+
+<div align="center">
+  <img src="preview.jpg" height="700" />
+</div>
 
